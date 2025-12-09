@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @BrodyPassey
 - 👀 I’m interested in learning as many languages as possible!
-- 🌱 I’m currently learning an introductory Java course
+- 🌱 I’m currently a first year University student in the UK.
 - 📫 How to reach me: bpassey6@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm from Wales but I study in the US!
+- ⚡ Fun fact: I studied abroad for 3 semesters!
 
 <!---
 BrodyPassey/BrodyPassey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
